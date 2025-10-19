@@ -18,7 +18,7 @@ export default function Navbar() {
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center cursor-pointer" onClick={() => scrollToSection('home')}>
             <img
-              src="/503284595_18345201733080286_2211317365510170768_n.jpg"
+              src="/Tour Rabbit.jpg"
               alt="Travelogy India"
               className="h-12 w-auto"
             />

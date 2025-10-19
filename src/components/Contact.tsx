@@ -12,7 +12,7 @@ export default function Contact() {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     const whatsappMessage = `Hi! I'm ${formData.name}.\nEmail: ${formData.email}\nPhone: ${formData.phone}\n\nMessage: ${formData.message}`;
-    window.open(`https://wa.me/917678296843?text=${encodeURIComponent(whatsappMessage)}`, '_blank');
+    window.open(`https://wa.me/919618165352?text=${encodeURIComponent(whatsappMessage)}`, '_blank');
   };
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
@@ -44,8 +44,8 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-800 mb-1">Phone</h4>
-                  <a href="tel:+917678296843" className="text-gray-600 hover:text-sky-600 transition-colors">
-                    +91 76782 96843
+                  <a href="tel:+919618165352" className="text-gray-600 hover:text-sky-600 transition-colors">
+                    +91 96181 65352
                   </a>
                 </div>
               </div>
@@ -56,8 +56,8 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-800 mb-1">Email</h4>
-                  <a href="mailto:info@travelogyindia.co.in" className="text-gray-600 hover:text-sky-600 transition-colors">
-                    info@travelogyindia.co.in
+                  <a href="mailto:tourrabbit456@gmail.com" className="text-gray-600 hover:text-sky-600 transition-colors">
+                    tourrabbit456@gmail.com
                   </a>
                 </div>
               </div>
@@ -78,7 +78,7 @@ export default function Contact() {
               <p className="mb-6">Stay updated with our latest tours and travel tips!</p>
               <div className="flex space-x-4">
                 <a
-                  href="https://www.instagram.com/travelogyofficial"
+                  href="https://www.instagram.com/tour__rabbit/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-white/20 hover:bg-white/30 p-3 rounded-full transition-colors"
@@ -86,7 +86,7 @@ export default function Contact() {
                   <Instagram className="h-6 w-6" />
                 </a>
                 <a
-                  href="https://www.youtube.com/@travelogy8261"
+                  href="https://www.youtube.com"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-white/20 hover:bg-white/30 p-3 rounded-full transition-colors"

@@ -15,7 +15,7 @@ export default function Footer() {
           <div>
             <div className="mb-4">
               <img
-                src="/503284595_18345201733080286_2211317365510170768_n.jpg"
+                src="/Tour Rabbit.jpg"
                 alt="Travelogy India"
                 className="h-16 w-auto mb-2"
               />
@@ -25,7 +25,7 @@ export default function Footer() {
             </p>
             <div className="flex space-x-4">
               <a
-                href="https://www.instagram.com/travelogyofficial"
+                href="https://www.instagram.com/tour__rabbit/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-gray-800 hover:bg-gradient-to-r hover:from-purple-500 hover:to-pink-500 p-2 rounded-full transition-all"
@@ -33,7 +33,7 @@ export default function Footer() {
                 <Instagram className="h-5 w-5" />
               </a>
               <a
-                href="https://www.youtube.com/@travelogy8261"
+                href="https://www.youtube.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-gray-800 hover:bg-red-600 p-2 rounded-full transition-all"
@@ -105,14 +105,14 @@ export default function Footer() {
             <ul className="space-y-3">
               <li className="flex items-start space-x-3">
                 <Phone className="h-5 w-5 text-sky-400 mt-1 flex-shrink-0" />
-                <a href="tel:+917678296843" className="text-gray-400 hover:text-sky-400 transition-colors">
-                  +91 76782 96843
+                <a href="tel:+91 9618165352" className="text-gray-400 hover:text-sky-400 transition-colors">
+                  +91 9618165352
                 </a>
               </li>
               <li className="flex items-start space-x-3">
                 <Mail className="h-5 w-5 text-sky-400 mt-1 flex-shrink-0" />
-                <a href="mailto:info@travelogyindia.co.in" className="text-gray-400 hover:text-sky-400 transition-colors break-all">
-                  info@travelogyindia.co.in
+                <a href="mailto:tourrabbit456@gmail.com" className="text-gray-400 hover:text-sky-400 transition-colors break-all">
+                tourrabbit456@gmail.com
                 </a>
               </li>
               <li className="flex items-start space-x-3">
@@ -128,14 +128,14 @@ export default function Footer() {
         <div className="border-t border-gray-800 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-gray-400 text-sm text-center md:text-left">
-              © 2025 Travelogy India. All rights reserved.
+              © Tour Rabbit Holidays. All rights reserved.
             </p>
             <div className="flex flex-col items-center md:items-end space-y-2">
               <p className="text-gray-400 text-sm flex items-center">
-                Made with <Heart className="h-4 w-4 text-red-500 mx-1 fill-current" /> for travelers
+                Made for travelers
               </p>
               <p className="text-gray-500 text-xs flex items-center">
-                <Code className="h-3 w-3 mr-1" /> Built by CtrlAltBuild Technologies
+                <Code className="h-3 w-3 mr-1" /> <b>Built by CtrlAltBuild <i>Technologies</i></b>
               </p>
             </div>
           </div>

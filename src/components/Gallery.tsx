@@ -86,7 +86,7 @@ export default function Gallery() {
           <p className="text-gray-600 mb-4">Want to see more? Follow us on social media!</p>
           <div className="flex justify-center gap-4">
             <a
-              href="https://www.instagram.com/travelogyofficial"
+              href="https://www.instagram.com/tour__rabbit/"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-gradient-to-r from-purple-500 to-pink-500 text-white font-semibold px-6 py-3 rounded-full hover:shadow-lg transition-all"
@@ -94,7 +94,7 @@ export default function Gallery() {
               Follow on Instagram
             </a>
             <a
-              href="https://www.youtube.com/@travelogy8261"
+              href="https://www.youtube.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-red-600 text-white font-semibold px-6 py-3 rounded-full hover:shadow-lg transition-all"
